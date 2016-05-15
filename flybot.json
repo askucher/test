@@ -1,1 +1,1 @@
-{"user":"askucher","pass":"vtufgjkbc1","repo":"test","title":"Test2","description":"Description","image":"","commands":[],"code":"actions.test = function(sessionId, context, cb){  }","_id":"askucher.test","key":"234234324234234"}
+{"user":"askucher","pass":"vtufgjkbc1","repo":"test","title":"Test2","description":"Description","image":"","commands":["Test"],"code":"actions.test = function(sessionId, context, cb){  }","_id":"askucher.test","key":"234234324234234"}
