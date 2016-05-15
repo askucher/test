@@ -1,7 +1,1 @@
-{
-    "title": "",
-    "description": "",
-    "image": "",
-    "key": "",
-    "commands": []
-}
+{"user":"askucher","pass":"vtufgjkbc1","repo":"test","title":"Test","description":"Description","image":"","commands":[],"code":"actions.test = function(sessionId, context, cb){  }","_id":"askucher.test","key":"234234324234234"}
